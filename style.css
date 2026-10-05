@@ -1,0 +1,19 @@
+body {
+    background-color: #444444;
+    text-align: center;
+    color: white;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+#about-me {
+    color: white;
+}
+a {
+    color: green;
+}
+footer {
+    text-align: left;
+}
